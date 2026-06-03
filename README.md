@@ -1,5 +1,5 @@
 📊 Global Electronics Sales Dashboard
-Project Overview
+##Project Overview
 Developed an interactive sales dashboard in Microsoft Excel to analyze sales performance, profitability, customer behavior, and product trends using global electronics sales data (2016–2021).
 Tools Used
 Microsoft Excel
