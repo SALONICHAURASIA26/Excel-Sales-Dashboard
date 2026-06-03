@@ -25,7 +25,7 @@ Prioritize inventory and marketing for the Computers category.
 Run promotional campaigns during low-sales periods.
 Maintain stock availability for top-selling products.
 Dashboard Preview
-![Dashboard Preview](Dashboard.png)
+![Dashboard Preview](dashboard.png)
 Skills Demonstrated
 Data Cleaning
 Data Analysis
