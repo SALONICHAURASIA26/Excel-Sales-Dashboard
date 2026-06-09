@@ -26,7 +26,7 @@ Run promotional campaigns during low-sales periods.
 Maintain stock availability for top-selling products.
 Dashboard Preview
 ![Dashboard Preview](dashboard.png)
-Skills Demonstrated
+##Skills Demonstrated
 Data Cleaning
 Data Analysis
 Data Visualization
