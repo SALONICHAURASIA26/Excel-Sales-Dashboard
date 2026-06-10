@@ -1,16 +1,16 @@
 📊 Global Electronics Sales Dashboard
-##Project Overview
+## Project Overview
 Developed an interactive sales dashboard in Microsoft Excel to analyze sales performance, profitability, customer behavior, and product trends using global electronics sales data (2016–2021).
-##Tools Used
-Microsoft Excel
-Pivot Tables
-Pivot Charts
-Slicers
-Conditional Formatting
-##KPIs
-Revenue: $55.8M
-Profit: $32.7M
-Orders: 62,884
+## Tools Used
+- Microsoft Excel
+- Pivot Tables
+- Pivot Charts
+- Slicers
+- Conditional Formatting
+## KPIs
+- Revenue: $55.8M
+- Profit: $32.7M
+- Orders: 62,884
 Customers: 11,887
 Profit Margin: 58.58%
 ##Key Insights
