@@ -13,7 +13,7 @@ Developed an interactive sales dashboard in Microsoft Excel to analyze sales per
 - Orders: 62,884
 Customers: 11,887
 Profit Margin: 58.58%
-##Key Insights
+## Key Insights
 United States generated the highest revenue among all countries.
 Computers was the top-performing product category.
 Sales peaked during January, February, and December.
