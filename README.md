@@ -11,7 +11,7 @@ Developed an interactive sales dashboard in Microsoft Excel to analyze sales per
 - Revenue: $55.8M
 - Profit: $32.7M
 - Orders: 62,884
-Customers: 11,887
+- Customers: 11,887
 Profit Margin: 58.58%
 ## Key Insights
 United States generated the highest revenue among all countries.
